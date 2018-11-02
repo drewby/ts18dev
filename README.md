@@ -4,7 +4,7 @@
 
 * Noodle Lens Result Monitor: [aka.ms/noodle](https://aka.ms/noodle)
 
-![Noodle Lens Architecuture](Images/NoodleLens_Architecture.jpg "Noodle Lens Architecuture")
+![Noodle Lens Architecuture](images/NoodleLens_Architecture.jpg "Noodle Lens Architecuture")
 
 # Demo 2 - Title
 

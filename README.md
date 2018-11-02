@@ -13,12 +13,14 @@
 # Demo 3 - ML on Edge CI/CD
 ![demo3arch](images/Demo3Arch.png)
 
-# Demo 4 - Xamarin, .NET Standard, Docker
+# Demo 4 - Xamarin, .NET Standard, App Center
 
-This demo app SmartHotel360 is [all on GitHub](https://github.com/Microsoft/SmartHotel360) so you can get it today.
+This demo app SmartHotel360 is all on GitHub so you can get it today: [Github.com/Microsoft/SmartHotel360](https://github.com/Microsoft/SmartHotel360).
+
+You can also get the whole demo script here: [Github.com/chomado/GS02-DemoScript](https://github.com/chomado/GS02-DemoScript/blob/master/doc.md).
 
 ![app](images/SmartHotel360_ReferenceApps.png)
 
-↓ This app's whole architecture is as below, but in this demo part (only 10min) we'll show Xamarin client part and ASP.NET Core part in this picture.
+↓ This app's whole architecture is as below, but in this demo part (only 10-15 min), we'll show Xamarin client part and ASP.NET Core part in this picture.
 
-![app](images/Demo4Arch.png)
+![demo4arch](images/Demo4Arch.png)

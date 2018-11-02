@@ -6,10 +6,9 @@
 
 ![Noodle Lens Architecuture](images/NoodleLens_Architecture.jpg "Noodle Lens Architecuture")
 
-# Demo 2 - Title
+# Demo 2 - Java DevOps with Visual Studio Code & Azure DevOps
 
-* Resource
-* Resource
+![demo2arch](images/Demo2Arch.jpg)
 
 # Demo 3 - ML on Edge CI/CD
 ![demo3arch](images/Demo3Arch.png)

@@ -11,3 +11,4 @@
 * Resource
 
 # Demo 3 - ML on Edge CI/CD
+![demo3arch](images/Demo3Arch.png)

@@ -4,7 +4,7 @@
 
 * Noodle Lens Result Monitor: [aka.ms/noodle](https://aka.ms/noodle)
 
-![Noodle Lens Architecuture](images/NoodleLens_Architecture.jpg "Noodle Lens Architecuture")
+![Noodle Lens Architecuture](images/Demo1Arch.png)
 
 # Demo 2 - Java DevOps with Visual Studio Code & Azure DevOps
 

@@ -60,7 +60,7 @@ $ git clone  https://USER_NAME@dev.azure.com/$DEVOPS_PROJECT_NAME/spring-app/_gi
 9. 結果の確認（ブラウザ）
 10. 結果の確認（kubectl コマンド)
 
-#2. Azure Dev Spaces のデモ
+# 2. Azure Dev Spaces のデモ
 
 Auzre Dev Spaces を利用すると、Visual Studio Code から Kubernetes 上で稼働している Java Application (Spring Boot) をリモート・デバッグできるようになります。まだ Preview の機能ですが、Kubernetes 上のアプリケーションをリモート・デバッグ、さらには無停止更新などができるようになる事で開発効率の向上が期待できます。
 
@@ -69,7 +69,7 @@ Java で利用する場合、[Azure Dev Spaces のセットアップ (Java) 手�
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/p2jmkgNWKP4/mq1.jpg?sqp=CIij9N4F&rs=AOn4CLDwJFCOWdh-bHgm62BNQD6-rxZJ_w)](https://youtu.be/p2jmkgNWKP4)
 
-#3. Slack から Kubernetes を操作するデモ
+# 3. Slack から Kubernetes を操作するデモ
 Microsoft は Azure Bot Service を提供しています。Azure Bot Service を利用すると Slack をはじめとし、Web サイト、アプリ、Cortana、Microsoft Teams、Skype、Facebook Messenger などで自然なやりとりができるインテリジェントなボットを構築、接続、デプロイ、管理できます。
 
 ![](./slack-operate-k8s.jpg)

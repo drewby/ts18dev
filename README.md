@@ -8,6 +8,8 @@
 
 # Demo 2 - Java DevOps with Visual Studio Code & Azure DevOps
 
+* [Abstract of this Demo by Japanese](./demo2/demo2.md)
+
 ![demo2arch](images/Demo2Arch.jpg)
 
 # Demo 3 - ML on Edge CI/CD

@@ -1,5 +1,7 @@
 ![Tech Summit 2018 banner](images/corporate_img_05.jpg)
 
+[Link to this GitHub Repo](http://github.com/drewby/ts18dev)
+
 # Demo 1 - Cosmos DB, Azure Functions and SignalR
 
 * Noodle Lens Result Monitor: [aka.ms/noodle](https://aka.ms/noodle)

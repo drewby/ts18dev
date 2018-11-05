@@ -20,9 +20,9 @@
 
 # Demo 4 - Xamarin, .NET Standard, App Center
 
-This demo app SmartHotel360 is all on GitHub so you can get it today: [Github.com/Microsoft/SmartHotel360](https://github.com/Microsoft/SmartHotel360).
-
-You can also get the whole demo script here: [Github.com/chomado/GS02-DemoScript](https://github.com/chomado/GS02-DemoScript/blob/master/doc.md).
+* This demo app SmartHotel360 is all on GitHub so you can get it today: [Github.com/Microsoft/SmartHotel360](https://github.com/Microsoft/SmartHotel360).
+* [Xamarin について](https://docs.microsoft.com/ja-jp/xamarin/)
+* [App Center について](https://azure.microsoft.com/ja-jp/services/app-center/)
 
 ![app](images/SmartHotel360_ReferenceApps.png)
 

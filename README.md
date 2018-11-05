@@ -29,9 +29,9 @@ Technologies in this demo:
 ![demo2arch](images/Demo2Arch.jpg)
 
 # Demo 3 - ML on Edge CI/CD
-![demo3title](images/demo3-title.png)
+![demo3title](images/demo3title.png)
 
-![demo3arch](images/demo3-arch.png)
+![demo3arch](images/demo3arch.png)
 
 Technologies in this demo:
 * [IoT Hub](https://docs.microsoft.com/ja-jp/azure/iot-hub/)

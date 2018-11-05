@@ -28,7 +28,7 @@
 * [Microsoft Speech Services](https://azure.microsoft.com/ja-jp/services/cognitive-services/speech-services/)
 
 
-#1. Azure DevOps プロジェクトのデモ
+# 1. Azure DevOps プロジェクトのデモ
 
 ## 1.1 Spring Boot PetClinit Application
 
@@ -64,10 +64,9 @@ $ git clone  https://USER_NAME@dev.azure.com/$DEVOPS_PROJECT_NAME/spring-app/_gi
 
 Auzre Dev Spaces を利用すると、Visual Studio Code から Kubernetes 上で稼働している Java Application (Spring Boot) をリモート・デバッグできるようになります。まだ Preview の機能ですが、Kubernetes 上のアプリケーションをリモート・デバッグ、さらには無停止更新などができるようになる事で開発効率の向上が期待できます。
 
-Java で利用する場合、[Azure Dev Spaces のセットアップ (Java) 手順](https://docs.microsoft.com/ja-jp/azure/dev-spaces/quickstart-java)をご参照ください。
+Java で利用する場合、[Azure Dev Spaces のセットアップ (Java) 手順](https://docs.microsoft.com/ja-jp/azure/dev-spaces/quickstart-java)をご参照ください。また、実際の Azure Dev Spaces 動作は [こちらの動画](https://youtu.be/p2jmkgNWKP4) からご確認いただけます。
 
-
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/p2jmkgNWKP4/mq1.jpg?sqp=CIij9N4F&rs=AOn4CLDwJFCOWdh-bHgm62BNQD6-rxZJ_w)](https://youtu.be/p2jmkgNWKP4)
+[![Video](./azure-devspaces.jpg)](https://youtu.be/p2jmkgNWKP4)
 
 # 3. Slack から Kubernetes を操作するデモ
 Microsoft は Azure Bot Service を提供しています。Azure Bot Service を利用すると Slack をはじめとし、Web サイト、アプリ、Cortana、Microsoft Teams、Skype、Facebook Messenger などで自然なやりとりができるインテリジェントなボットを構築、接続、デプロイ、管理できます。

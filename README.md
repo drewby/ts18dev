@@ -29,8 +29,21 @@ Technologies in this demo:
 ![demo2arch](images/Demo2Arch.jpg)
 
 # Demo 3 - ML on Edge CI/CD
-![demo3arch](images/Demo3-title.png)
-![demo3arch](images/Demo3Arch.png)
+![demo3title](images/demo3-title.png)
+
+![demo3arch](images/demo3-arch.png)
+
+Technologies in this demo:
+* [IoT Hub](https://docs.microsoft.com/ja-jp/azure/iot-hub/)
+* [IoT Edge](https://docs.microsoft.com/ja-jp/azure/iot-edge/)
+* [Custom Vision](https://www.customvision.ai/)
+* [Azure DevOps](https://azure.microsoft.com/ja-jp/services/devops/)
+* [Azure IoT Edge For VSTS](https://marketplace.visualstudio.com/items?itemName=vsc-iot.iot-edge-build-deploy)
+* [Azure Container Registry](https://docs.microsoft.com/ja-jp/azure/container-registry/)
+* [Docker](https://www.docker.com/)
+* [Raspberry Pi](https://www.raspberrypi.org/)
+* [Sense HAT](https://www.raspberrypi.org/products/sense-hat/)
+* [Camera module](https://www.raspberrypi.org/products/sense-hat/)
 
 # Demo 4 - Xamarin, .NET Standard, App Center
 

@@ -8,14 +8,16 @@ secs=5
 width=120
 toggle=true
 
-titles=("GS02 - An end-to-end tour of the Microsoft developer platform"
+titles=("Microsoft TechSummit 2018"
+          "GS02 - An end-to-end tour of the Microsoft developer platform"
           "Drew Robbins"
           "Akira Inoue"
           "Yoshio Terada"
           "Saki Homma"
           "Madoka \"Chomado\" Chiyoda")
 
-subtitles=("http://github.com/drewby/ts18dev"
+subtitles=("#mstsjp18"
+             "http://github.com/drewby/ts18dev"
              "Commercial Software Engineering"
              "Global Black Belt"
              "Cloud Developer Advocate"
@@ -24,6 +26,7 @@ subtitles=("http://github.com/drewby/ts18dev"
              )
 
 twitters=(""
+          ""
           "@drewrobbins"
           "@chack411"
           "@yoshioterada"

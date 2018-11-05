@@ -15,6 +15,7 @@
 ![demo2arch](images/Demo2Arch.jpg)
 
 # Demo 3 - ML on Edge CI/CD
+![demo3arch](images/Demo3-title.png)
 ![demo3arch](images/Demo3Arch.png)
 
 # Demo 4 - Xamarin, .NET Standard, App Center
